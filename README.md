@@ -4,10 +4,10 @@ My name is Sandie and I am an MSc Mathematics and Finance student at Imperial Co
 
 I am currently:
 
-🔭 working on The App Brewery's 100 Days of Code Bootcamp (https://www.appbrewery.co/)
-🖥 coding in Python and learning C++
-📚 looking for any good book recommendations
-📺 watching: The Good Wife (re-watching, rather)
+- 🔭 working on The App Brewery's 100 Days of Code Bootcamp (https://www.appbrewery.co/)
+- 🖥 coding in Python and learning C++
+- 📚 looking for any good book recommendations
+- 📺 watching: The Good Wife (re-watching, rather)
 
 <!--
 **s-nc/s-nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
