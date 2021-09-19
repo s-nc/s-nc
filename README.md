@@ -4,7 +4,7 @@ My name is Sandie and I am an MSc Mathematics and Finance student at Imperial Co
 
 I am currently:
 
-- 🔭 working on The App Brewery's 100 Days of Code Bootcamp (https://www.appbrewery.co/)
+- 🔭 working on <a href="https://www.appbrewery.co/">The App Brewery's</a> 100 Days of Code Bootcamp
 - 🖥 coding in Python and learning C++
 - 📚 looking for any good book recommendations
 - 📺 (re-)watching: The Good Wife
@@ -15,7 +15,7 @@ Previously, I completed the Python Courses from Rice University on Coursera. The
 - <a href="https://py2.codeskulptor.org/#user47_XVXIjuVf8g_17.py">Memory ⚡</a>
 - <a href="https://py2.codeskulptor.org/#user48_cvBDWzh9L1_6.py">Rice Rocks 🎮</a>
 
-<--
+<!---
 **s-nc/s-nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--->
