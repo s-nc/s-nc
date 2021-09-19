@@ -9,7 +9,13 @@ I am currently:
 - 📚 looking for any good book recommendations
 - 📺 (re-)watching: The Good Wife
 
-<!--
+
+Previously, I completed the Python Courses from Rice University on Coursera. These are some of the games I built:
+- <a href="http://www.codeskulptor.org/#user47_JpOxqGT5fZ_13.py">Black Jack 🂱</a>
+- <a href="https://py2.codeskulptor.org/#user47_XVXIjuVf8g_17.py">Memory ⚡</a>
+- <a href="https://py2.codeskulptor.org/#user48_cvBDWzh9L1_6.py">Rice Rocks 🎮</a>
+
+<--
 **s-nc/s-nc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
